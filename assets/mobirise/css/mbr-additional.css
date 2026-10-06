@@ -1372,11 +1372,6 @@ a {
   display: flex;
   padding-top: 20rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/41315-2x.webp");
-}
-.cid-vx9chRbjca .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-vx9chRbjca {
@@ -1418,6 +1413,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-vx9chRbjca .mbr-section-title,
 .cid-vx9chRbjca .mbr-section-subtitle {
